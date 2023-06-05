@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Inno Test</string>
+    <string name="accessibility_service_description">Service that Detect Usage of whatsapp</string>
+    <string name="accessibility_service_label">InnoTest</string>
+    <string name="title">Title</string>
+    <string name="head">Head</string>
+    <string name="body">Body</string>
+</resources>
